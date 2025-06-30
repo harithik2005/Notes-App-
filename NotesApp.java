@@ -1,5 +1,4 @@
-// NotesApp.java - Simple Java Notes App using FileReader/FileWriter
-// Made by Harithik Sharma during Java Internship @ Elevate Labs
+// NotesApp in JAVA
 
 import java.io.*;
 import java.util.*;
